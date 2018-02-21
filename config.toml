@@ -1,0 +1,9 @@
+baseURL = "http://product-data.co.uk/"
+languageCode = "en-us"
+title = "Product Data"
+theme = "pdtheme"
+
+[params.header]
+    title = "Household Products Data Sheets"
+    info = "The following is a list of the products for which an ingredients list is held. Please click on a product link for more information."
+    copyright = "&copy; 2018 Severn Delta Limited"

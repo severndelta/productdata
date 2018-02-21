@@ -1,0 +1,3 @@
+[submodule "themes/pdtheme"]
+	path = themes/pdtheme
+	url = https://github.com/severndelta/pdtheme.git
