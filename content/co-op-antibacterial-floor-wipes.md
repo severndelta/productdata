@@ -13,6 +13,8 @@ INCI LIST
 
 Fragrance ingredients which require listing under EC648/2004 on Detergents:
 
-Citral
-Limonene
+* Citral
+* Limonene
+
+
 More information regarding INCI names can be obtained from: http://europa.eu.int/comm/enterprise/cosmetics/html/cosm_inci_index.htm
