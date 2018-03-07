@@ -1,8 +1,8 @@
 ---
-title: "Waitrose Fresh Tumbledryer Sheets"
-date: 2018-02-20T15:38:44Z
+title: Waitrose Fresh Tumbledryer Sheets
+date: 2018-02-20T15:38:44.000Z
 ---
-**INCI LIST**
+**INCI LIST -**
 
 * Imidazoline Methosulphate
 * Alcohol Ethoxylate
