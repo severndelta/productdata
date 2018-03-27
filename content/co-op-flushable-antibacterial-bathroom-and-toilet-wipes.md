@@ -1,6 +1,6 @@
 ---
-title: "Co Op Flushable Antibacterial Bathroom and Toilet Wipes"
-date: 2018-02-20T15:32:30Z
+title: Co Op Flushable Antibacterial Bathroom and Toilet Wipes
+date: 2018-02-20T15:32:30.000Z
 ---
 INCI LIST
 
@@ -11,4 +11,4 @@ Benzisothiazolinone
 Parfum
 Polysorbate 20
 
-More information regarding INCI names can be obtained from: http://europa.eu.int/comm/enterprise/cosmetics/html/cosm_inci_index.htm
+More information regarding INCI names can be obtained from: http://ec.europa.eu/growth/tools-databases/cosing/index.cfm?fuseaction=search.simple
