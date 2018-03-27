@@ -1,6 +1,6 @@
 ---
-title: "Fabtex Tumble Dryer Sheets"
-date: 2018-02-20T15:32:50Z
+title: Fabtex Tumble Dryer Sheets
+date: 2018-02-20T15:32:50.000Z
 ---
 **INCI NAME**
 
@@ -16,4 +16,4 @@ Fragrance ingredients which require listing under EC648/2004 on Detergents
 
 More information regarding INCI names can be obtained from:
 
-http://europa.eu.int/comm/enterprise/cosmetics/html/cosm_inci_index.htm
+http://ec.europa.eu/growth/tools-databases/cosing/index.cfm?fuseaction=search.simple
