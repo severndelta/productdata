@@ -4,7 +4,7 @@ date: 2018-02-20T15:32:50.000Z
 ---
 **INCI NAME**
 
-* Imidazoline Methosulphate
+* TEA esterquat
 * Cocoamine oxide
 * Cocamidopropyl amine oxide
 * Parfum
