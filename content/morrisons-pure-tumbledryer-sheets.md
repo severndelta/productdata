@@ -5,7 +5,8 @@ date: 2018-02-20T15:33:08.000Z
 **INCI LIST**
 
 * Imidazoline Methosulphate
-* Alcohol Ethoxylate
+* Cocamine oxide
+* Cocamidopropyl amine oxide
 * Parfum
 * Dimethicone
 * Propylene Glycol
@@ -13,12 +14,7 @@ date: 2018-02-20T15:33:08.000Z
 
 Fragrance ingredients which require listing under EC648/2004 on Detergents:
 
-* Citronellol
-* Coumarin
 * Eugenol
-* Hexyl Cinnamal
-* Limonene
-* Linalool
-* Butylphenyl methylproprional
+* Alpha-isomethyl Ionone
 
 More information regarding INCI names can be obtained from: http://ec.europa.eu/growth/tools-databases/cosing/index.cfm?fuseaction=search.simple
