@@ -6,6 +6,7 @@ date: 2018-02-20T15:37:03.000Z
 
 * TEA Esterquat
 * Cocamidopropylamine oxide
+* Cocamine oxide
 * Parfum
 * Dimethicone
 * Propylene Glycol
