@@ -4,8 +4,9 @@ date: 2018-02-20T15:38:44.000Z
 ---
 **INCI LIST -**
 
-* Imidazoline Methosulphate
-* Alcohol Ethoxylate
+* TEA ester quat
+* Cocamidopropylamine oxide
+* Cocamine oxide
 * Parfum
 * Dimethicone
 * Propylene Glycol
