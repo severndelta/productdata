@@ -4,7 +4,7 @@ date: 2018-02-20T15:33:08.000Z
 ---
 **INCI LIST**
 
-* Imidazoline Methosulphate
+* ITEA Esterquat
 * Cocamine oxide
 * Cocamidopropyl amine oxide
 * Parfum
