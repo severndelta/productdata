@@ -6,7 +6,7 @@ INCI LIST
 
 * Aqua
 * Benzalkonium Chloride
-* Methylisothiazolinone
+* Phenoxyethanol
 * Benzisothiazolinone
 * Parfum
 * Polysorbate 20
