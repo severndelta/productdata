@@ -5,7 +5,8 @@ date: 2018-02-20T15:34:24.000Z
 **INCI LIST**
 
 * Imidazoline Methosulphate
-* AlcoholEthoxylate
+* Cocamidopropyl amine oxide
+* Cocamine oxide
 * Perfume
 * Dimethicone
 * Aloe Barbadensis
