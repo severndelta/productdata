@@ -1,6 +1,6 @@
 ---
 title: Co Op Multisurface Antibacterial Citrus Wipes
-date: 2018-02-20T15:32:07.000Z
+date: '2020-12-02T15:32:07+00:00'
 ---
 INCI LIST
 
