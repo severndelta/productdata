@@ -1,5 +1,5 @@
 ---
-title: Waitrose Essential Kitchen Antibacterial Wipes
+title: 'Waitrose Essential Multisurface Antibacterial Wipes '
 date: '2021-10-13T10:48:47+01:00'
 ---
 **INCI List**
