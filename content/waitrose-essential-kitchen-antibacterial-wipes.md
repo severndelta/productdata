@@ -1,22 +1,16 @@
 ---
-title: 'Waitrose Essential Multisurface Antibacterial Wipes '
+title: Waitrose Essential Antibacterial Floor Wipes
 date: '2021-10-13T10:48:47+01:00'
 ---
 **INCI List**
 
 Benzalkonium Chloride
 
-Chlorhexidine Digluconate
-
-Polysorbate 20
-
 Phenoxyethanol
 
 Benzisothiazolinone
 
 Parfum
-
-Citric Acid
 
 
 
@@ -25,8 +19,6 @@ Citric Acid
 \    • Citral
 
 \    • Limonene
-
-
 
 More information regarding INCI names can be found at 
 
