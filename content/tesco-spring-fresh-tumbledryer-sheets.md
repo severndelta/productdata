@@ -15,7 +15,6 @@ Fragrance ingredients which require listing under EC648/2004 on Detergents:
 
 * Citronellol
 * Benzyl Salicylate
-* 2-(4-terbutylbenzyl)proprionaldehyde
 * Hexyl Cinnamaldehyde
 * Geraniol
 * Coumarin
